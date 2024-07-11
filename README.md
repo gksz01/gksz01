@@ -3,7 +3,7 @@
 Passionate about technology and programming
 
 - 🔭 I’m currently studying Software Engineering at PUCPR
-- 💻 I'm a Back-End developer (Python)
+- 💻 I'm a Back-End developer (Python, C#)
 - 🌱 I'm constantly searching and learning more about programming and technology
 - 🤔 I’m looking for a opportunity to start my programming journey as a junior dev
 
