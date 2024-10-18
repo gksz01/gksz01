@@ -15,7 +15,7 @@ Passionate about technology and programming
 - ⚡ Fun fact: I started my career as a game developer (Lua, Javascript, HTML, CSS), creating scripts and maintaining FiveM servers (GTA 5 Platform). But I chose back-end when I started my degree in Software Engineering.
 
 
-[![gksz01 GitHub stats](https://github-readme-stats.vercel.app/api?username=gksz01)](https://github.com/anuraghazra/github-readme-stats)
+[![gksz01 GitHub stats](https://github-readme-stats.vercel.app/api?username=gksz01&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies I use in my day
 <div style="display: inline_block">
