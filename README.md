@@ -14,7 +14,8 @@ Passionate about technology and programming
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee&url=https://www.linkedin.com/in/guilherme-cheutchuk-22b7122ba/)](https://www.linkedin.com/in/guilherme-cheutchuk-22b7122ba/)
 - ⚡ Fun fact: I started my career as a game developer (Lua, Javascript, HTML, CSS), creating scripts and maintaining FiveM servers (GTA 5 Platform). But I chose back-end when I started my degree in Software Engineering.
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=gksz01&show_icons=true&theme=dracula&count_private=true)
+
+[![gksz01 GitHub stats](https://github-readme-stats.vercel.app/api?username=gksz01)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies I use in my day
 <div style="display: inline_block">
